@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter10_core/Chapter10_core.iml" filepath="$PROJECT_DIR$/Chapter10_core/Chapter10_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11_core/Chapter11_core.iml" filepath="$PROJECT_DIR$/Chapter11_core/Chapter11_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6_Exercise/Chapter6_Exercise.iml" filepath="$PROJECT_DIR$/Chapter6_Exercise/Chapter6_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7_Exercises/Chapter7_Exercises.iml" filepath="$PROJECT_DIR$/Chapter7_Exercises/Chapter7_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter8_core/Chapter8_core.iml" filepath="$PROJECT_DIR$/Chapter8_core/Chapter8_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9_exercises/Chapter9_exercises.iml" filepath="$PROJECT_DIR$/Chapter9_exercises/Chapter9_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Making_a_Difference2/Making_a_Difference2.iml" filepath="$PROJECT_DIR$/Making_a_Difference2/Making_a_Difference2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaper_2_exercises/chaper_2_exercises.iml" filepath="$PROJECT_DIR$/chaper_2_exercises/chaper_2_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaprter7_core/chaprter7_core.iml" filepath="$PROJECT_DIR$/chaprter7_core/chaprter7_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter 6/chapter 6.iml" filepath="$PROJECT_DIR$/chapter 6/chapter 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_core/chapter3_core.iml" filepath="$PROJECT_DIR$/chapter3_core/chapter3_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9-10_core/chapter9-10_core.iml" filepath="$PROJECT_DIR$/chapter9-10_core/chapter9-10_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcome exercises/welcome exercises.iml" filepath="$PROJECT_DIR$/welcome exercises/welcome exercises.iml" />
+    </modules>
+  </component>
+</project>
