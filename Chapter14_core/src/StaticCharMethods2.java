@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class StaticCharMethods3 {
+public class StaticCharMethods2{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // get radix

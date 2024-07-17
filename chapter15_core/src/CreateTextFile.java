@@ -1,5 +1,15 @@
 // Fig. 15.3: CreateTextFile.java
  // Writing data to a sequential text file with class Formatter.
+
+
+// this creates a file of name clients.txt and prompts the user to enter information , if the file exists,
+// it replaces the info with what the user is entering, and if not if creates a new file
+
+//use <contol> <d> to end the program
+
+
+
+
          import java.io.FileNotFoundException;
          import java.lang.SecurityException;
          import java.util.Formatter;
@@ -19,8 +29,7 @@
 
                      while (input.hasNext()) { // loop until end-of-file indicator
                          try {
-                             // output new record to file; assumes valid input
-                             // output new record to file; assumes valid input
+                           // output new record to file; assumes valid input
                              output.format("%d %s %s %.2f%n", input.nextInt(),
                                      input.next(), input.next(), input.nextDouble());
                          } catch (NoSuchElementException elementException) {
@@ -30,8 +39,7 @@
 
                          System.out.print("? ");
                      }
-                 } catch (SecurityException | FileNotFoundException |
-                          FormatterClosedException e) {
+                 } catch (SecurityException | FileNotFoundException | FormatterClosedException e) {
 
 
                      e.printStackTrace();
