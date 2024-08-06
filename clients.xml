@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+    <account>
+        <accountNumber>150</accountNumber>
+        <balance>700.0</balance>
+        <firstName>tifu</firstName>
+        <lastName>michal</lastName>
+    </account>
+    <account>
+        <accountNumber>178</accountNumber>
+        <balance>0.0</balance>
+        <firstName>njenyu</firstName>
+        <lastName>vannesa</lastName>
+    </account>
+    <account>
+        <accountNumber>200</accountNumber>
+        <balance>-294.0</balance>
+        <firstName>tifini</firstName>
+        <lastName>tiafe</lastName>
+    </account>
+    <account>
+        <accountNumber>499</accountNumber>
+        <balance>29.0</balance>
+        <firstName>jeremiah</firstName>
+        <lastName>vhicanse</lastName>
+    </account>
+</accounts>
