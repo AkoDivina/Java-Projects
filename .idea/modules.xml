@@ -12,13 +12,17 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter19_exercises/Chapter19_exercises.iml" filepath="$PROJECT_DIR$/Chapter19_exercises/Chapter19_exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter20/Chapter20.iml" filepath="$PROJECT_DIR$/Chapter20/Chapter20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter21_exercises/Chapter21_exercises.iml" filepath="$PROJECT_DIR$/Chapter21_exercises/Chapter21_exercises.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter22/Chapter22.iml" filepath="$PROJECT_DIR$/Chapter22/Chapter22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter23/Chapter23.iml" filepath="$PROJECT_DIR$/Chapter23/Chapter23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter24/Chapter24.iml" filepath="$PROJECT_DIR$/Chapter24/Chapter24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter25/Chapter25.iml" filepath="$PROJECT_DIR$/Chapter25/Chapter25.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter6_Exercise/Chapter6_Exercise.iml" filepath="$PROJECT_DIR$/Chapter6_Exercise/Chapter6_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter7_Exercises/Chapter7_Exercises.iml" filepath="$PROJECT_DIR$/Chapter7_Exercises/Chapter7_Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter8_core/Chapter8_core.iml" filepath="$PROJECT_DIR$/Chapter8_core/Chapter8_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter9_exercises/Chapter9_exercises.iml" filepath="$PROJECT_DIR$/Chapter9_exercises/Chapter9_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DB_Connection/DB_Connection.iml" filepath="$PROJECT_DIR$/DB_Connection/DB_Connection.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Making_a_Difference2/Making_a_Difference2.iml" filepath="$PROJECT_DIR$/Making_a_Difference2/Making_a_Difference2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/build/build.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/build/build.iml" />
       <module fileurl="file://$PROJECT_DIR$/chaper_2_exercises/chaper_2_exercises.iml" filepath="$PROJECT_DIR$/chaper_2_exercises/chaper_2_exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/chaprter7_core/chaprter7_core.iml" filepath="$PROJECT_DIR$/chaprter7_core/chaprter7_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter 6/chapter 6.iml" filepath="$PROJECT_DIR$/chapter 6/chapter 6.iml" />
@@ -28,6 +32,15 @@
       <module fileurl="file://$PROJECT_DIR$/chapter18-exercises/chapter18-exercises.iml" filepath="$PROJECT_DIR$/chapter18-exercises/chapter18-exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3_core/chapter3_core.iml" filepath="$PROJECT_DIR$/chapter3_core/chapter3_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter9-10_core/chapter9-10_core.iml" filepath="$PROJECT_DIR$/chapter9-10_core/chapter9-10_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/core-api/core-api.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/core-impl/core-impl.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/core-impl/core-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/demo/demo.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/generated/generated.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/legacy/legacy.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/legacy/legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/protocol-impl/protocol-impl.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/protocol-impl/protocol-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/test/test.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/user-api/user-api.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/mysql-connector-j-9.0.0/src/main/user-impl/user-impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/welcome exercises/welcome exercises.iml" filepath="$PROJECT_DIR$/welcome exercises/welcome exercises.iml" />
     </modules>
   </component>
